@@ -32,3 +32,4 @@
 -
 - 上傳不含實際金鑰的 .env.example。
 - 這是前端示範專案，目前沒有連接資料庫，也沒有處理實際付款。
+youtube.com/watch?v=TpHtAy7XF3w&feature=youtu.be
